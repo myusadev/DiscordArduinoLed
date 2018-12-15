@@ -1,7 +1,12 @@
 # Discord, Arduino and Led
 Turn on/off your arduino's led via discord messages, woa!
-(arduino ide: am i a joke to you)
 
+# License:
+<img src="wtfplss.png"/>
+
+
+
+# Script:
 ```javascript
 var jfive = require('johnny-five');
 var djs = require('discord.js');
